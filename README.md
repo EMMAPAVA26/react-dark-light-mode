@@ -26,7 +26,9 @@ src/
 - CSS / styled-components 🎨
 
 📸 Capturas de pantalla
+
 https://react-digital-clock-inov.vercel.app/
+
 <img width="1363" height="546" alt="image" src="https://github.com/user-attachments/assets/0585770e-9a4f-4676-91b7-ec297c5af5a4" />
 <img width="1365" height="542" alt="image" src="https://github.com/user-attachments/assets/73781215-81e3-4559-bd2b-ecc75bf3a354" />
 
